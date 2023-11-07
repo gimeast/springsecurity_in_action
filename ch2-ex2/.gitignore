@@ -31,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-
-certificate.p12
-application-certificate.properties
